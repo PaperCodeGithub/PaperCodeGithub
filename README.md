@@ -1,13 +1,13 @@
 <div align="center">
 
-# A R I T R A _ D A S
+# P A P E R _ C O D E
 
 **Full-Stack Developer | AI/ML Engineer | System-Level Programming**
 
 <br>
 
 <p align="left">
-Hi, I am a student, building everything from web applications to custom operating systems. Focused on low-level systems programming, artificial intelligence, and pushing the boundaries of self-changing code via Linear Genetic Programming. I love to explore programming world. This is the only thing I love.
+Hi, I am Aritra Das a student, building everything from web applications to custom operating systems. Focused on low-level systems programming, artificial intelligence, and pushing the boundaries of self-changing code via Linear Genetic Programming. I love to explore programming world. This is the only thing I love.
 </p>
 
 ---
